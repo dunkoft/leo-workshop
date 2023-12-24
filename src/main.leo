@@ -1,4 +1,4 @@
-program helloworld_2xak5x9.aleo {
+program armutToplayici.aleo {
   mapping account:address => u64;
   record armut {
     owner: address;
